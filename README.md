@@ -1,4 +1,4 @@
-Skylines Info Map
+Skylines RP Info Map
 ====
 This interactive (Google) map shows you the location of current Skylines RP territory/gang zones.
 
